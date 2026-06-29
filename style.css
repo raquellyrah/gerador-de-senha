@@ -163,4 +163,33 @@ body {
     .parametro-senha {
         width: 30%;
     }
+}.parametro-senha-textos {
+    display: flex;
+    justify-content: space-between;
+}
+
+.barra {
+    background-color: var(--fundo-senha);
+    height: 30px;
+    width: 100%;
+}
+
+.forca {
+    height: 30px;
+    position: relative;
+}
+
+.fraca {
+    width: 25%;
+    background-color: #E71B32; 
+}
+
+.media {
+    background-color: #FAF408;
+    width: 50%;
+}
+
+.forte {
+    background-color: #00FF85;
+    width: 100%;
 }
