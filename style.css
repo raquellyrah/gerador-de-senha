@@ -2,10 +2,10 @@
 
 :root {
     --branco: #ffffff;
-    --cor-de-fundo: #121212; /* Preto de fundo principal */
+    --cor-de-fundo: #a00d63; /* Preto de fundo principal */
     --fundo-senha: #1e1e1e;   /* Preto ligeiramente mais claro para a senha */
-    --fundo-texto: #1a1a1a;   /* Preto para o painel de parâmetros */
-    --borda: #ff007f;         /* Rosa choque (Neon/Pink) */
+    --fundo-texto: #ff66b2;   /* Preto para o painel de parâmetros */
+    --borda: #fffafc;         /* Rosa choque (Neon/Pink) */
     --borda-hover: #ff66b2;   /* Rosa mais claro para o efeito de passar o mouse */
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
